@@ -130,8 +130,8 @@ Esta decisión permitirá al señor Juan liberar capital para su nuevo emprendim
 
 ### 👨‍💻 Autor
 
-Gastón Peló
-Linkedin: https://www.linkedin.com/in/gpelo-data/
+Gastón Peló  
+Linkedin: https://www.linkedin.com/in/gpelo-data/  
 Mail: gaston.pelo.contacto@gmail.com
 
 ### 📄 Licencia
